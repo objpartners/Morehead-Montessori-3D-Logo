@@ -1,5 +1,5 @@
 // vite.config.js
 export default {
-    base: '/mmlogo/',
+    base: '/Morehead-Montessori-3D-Logo/',
   }
   
